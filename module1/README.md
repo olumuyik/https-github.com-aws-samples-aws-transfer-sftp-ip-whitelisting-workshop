@@ -5,7 +5,7 @@
 © 2020 Amazon Web Services, Inc. and its affiliates. All rights reserved.
 This sample code is made available under the MIT-0 license. See the LICENSE file.
 
-Errors or corrections? Contact [russboye@amazon.com](mailto:russboye@amazon.com).
+Errors or corrections? Contact [olumuyik@amazon.com](mailto:olumuyike@amazon.com).
 
 ---
 
@@ -24,7 +24,7 @@ In this module, you will use CloudFormation scripts to deploy resources in an AW
 
   | **Region Code** | **Region Name** | **Launch** |
   | --- | --- | --- |
-  | us-west-1 | US West (N. California) | [Launch in us-west-1](https://console.aws.amazon.com/cloudformation/home?region=us-west-1#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
+  | us-west-1 | US West (N. California) | [Launch in us-west-1](https://console.aws.amazon.com/cloudformation/home?region=us-west-1#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=[https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml](https://aws-transfer-sample-spec-req.s3.amazonaws.com/workshop/ip-whitelisting/sftp-workshop.yaml?AWSAccessKeyId=AKIAZ74KMH7RJLNASTHY&Signature=R70B34B%2BQwcZpUIf9IPSKn6UaOo%3D&Expires=1669481681) |
   | us-west-2 | US West (Oregon) | [Launch in us-west-2](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
   | us-east-1 | US East (N. Virginia) | [Launch in us-east-1](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
   | us-east-2 | US East (Ohio) | [Launch in us-east-2](https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
