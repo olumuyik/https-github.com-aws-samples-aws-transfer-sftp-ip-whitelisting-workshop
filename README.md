@@ -42,6 +42,5 @@ This workshop consists of the following five modules:
 - **Module 2** - Test Your Setup with a Basic User
 - **Module 3** - Protect Your Data Access with Logical Directories
 - **Module 4** - Clean Up
-- **Optional Module 5** - Using VPC Peering to Allow Internal IP Access
 
 To get started, go to [Module 1](/module1/README.md).
