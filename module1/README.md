@@ -24,7 +24,7 @@ In this module, you will use CloudFormation scripts to deploy resources in an AW
 
   | **Region Code** | **Region Name** | **Launch** |
   | --- | --- | --- |
-  | us-west-1 | US West (N. California) | [Launch in us-west-1](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-east-1.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
+  | us-west-1 | US West (N. California) | [Launch in us-west-1](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-1.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
   | us-west-2 | US West (Oregon) | [Launch in us-west-2](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
   | us-east-1 | US East (N. Virginia) | [Launch in us-east-1](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
   | us-east-2 | US East (Ohio) | [Launch in us-east-2](https://console.aws.amazon.com/cloudformation/home?region=us-east-2#/stacks/new?stackName=AWSTransferWorkshopOct2020&templateURL=https://aws-transfer-samples.s3-us-west-2.amazonaws.com/workshops/ip-whitelisting/sftp-workshop-endpoint.yaml) |
