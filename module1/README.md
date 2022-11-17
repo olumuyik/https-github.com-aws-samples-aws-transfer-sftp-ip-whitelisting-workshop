@@ -84,7 +84,7 @@ In the preceding screenshot, you can see two key resources that were automatical
 
 First, because you chose to deploy the server in your VPC, a VPC endpoint was automatically created by the service (as shown above under “**Endpoint details**”).  All network traffic to and from the SFTP server passes through this endpoint.  You edit the **Security Group** for this endpoint to whitelist SFTP clients.  
 
-Second, because you chose to make your server internet facing, a DNS name was supplied for your server. This DNS name is the hostname that SFTP clients use to access the server (as shown under “**Endpoint**”). AWS SFTP automatically created an alias record for the DNS name of the form “<serverid>.transfer.<region>.amazonaws.com.” An ANAME record was created that includes the two Elastic IP addresses you assigned to the server.  The service Console provides you the option to assign your custom domain as the hostname your clients can use to access your endpoint using **Route 53 CNAME**.
+Second, because you chose to make your server internet facing, a DNS name was supplied for your server. This DNS name is the hostname that SFTP clients use to access the server (as shown under “**Endpoint**”). AWS SFTP automatically created an alias record for the DNS name of the form “<serverid>.transfer.<region>.amazonaws.com.” An CNAME record was created that includes the two Elastic IP addresses you assigned to the server.  The service Console provides you the option to assign your custom domain as the hostname your clients can use to access your endpoint using **Route 53 CNAME**.
 
 ## Module Summary
 
