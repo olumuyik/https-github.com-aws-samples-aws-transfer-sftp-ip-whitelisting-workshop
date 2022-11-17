@@ -2,7 +2,7 @@
 
 ### Using IP whitelisting and logical directories to secure your AWS Transfer Family servers
 
-© 2020 Amazon Web Services, Inc. and its affiliates. All rights reserved.
+© 2022 Amazon Web Services, Inc. and its affiliates. All rights reserved.
 This sample code is made available under the MIT-0 license. See the LICENSE file.
 
 Errors or corrections? Contact [olumuyik@amazon.com](mailto:olumuyike@amazon.com).
