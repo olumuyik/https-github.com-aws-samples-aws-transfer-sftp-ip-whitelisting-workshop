@@ -4,7 +4,7 @@
 
 <!--Final rev. for launch Oct 2020-->
 
-© 2022 Amazon Web Services, Inc. and its affiliates. All rights reserved.
+© 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved.
 This sample code is made available under the MIT-0 license. See the LICENSE file.
 
 Errors or corrections? Contact [olumuyik@amazon.com](mailto:olumuyik@amazon.com).
